@@ -69,4 +69,4 @@ Occurs consistently on multiple property listings tested.
 
 ## Screenshot
 
-![Bug Screenshot](Bug-screenshot.png)
+![Bug Screenshot](Bug-Screenshot.png)
