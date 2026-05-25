@@ -69,4 +69,8 @@ Occurs consistently on multiple property listings tested.
 
 ## Screenshot
 
-![Bug Screenshot](Bug-Screenshot.png)
+![Bug Screenshot](property-gallery-thumbnails-disappear/Bug-Screenshot.png)
+
+### Video Evidence
+
+![Slider Bug Demo](property-gallery-thumbnails-disappear/BugReport.gif)
