@@ -1,10 +1,24 @@
-# Property Gallery Thumbnails Disappear After Rapid Clicking
+# Thumbnail Gallery Disappears After Rapid Image Navigation
+
+---
+
+## Bug ID
+
+BUG-001
+
+---
 
 ## Environment
 
-* Browser: Chrome
+* Browser: Chrome Version 136
 * OS: Windows 11
 
+---
+
+## Preconditions
+- User is viewing a property listing
+- Image gallery is loaded correctly
+  
 ---
 
 ## Description
@@ -12,6 +26,9 @@
 The thumbnail gallery on property pages becomes visually broken after rapidly clicking through property images.
 
 The thumbnails progressively move to the left until they completely disappear, leaving an empty blank area where the thumbnails should be displayed.
+
+## Tested Website
+https://www.dilletpropiedades.com.ar/
 
 ---
 
@@ -40,14 +57,16 @@ The thumbnails shift progressively to the left and eventually disappear complete
 
 Medium
 
+## Priority
+
+Medium
+
 ---
 
 ## Frequency
 
 Occurs consistently on multiple property listings tested.
 
----
+## Screenshot
 
-## Notes
-
-This issue negatively affects gallery navigation and user experience during image browsing.
+![Bug Screenshot](Bug-screenshot.png)
