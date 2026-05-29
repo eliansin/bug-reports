@@ -68,3 +68,11 @@ Possible causes may include:
 * Incorrect thumbnail mapping
 * Rendering/lazy loading issue
 * Corrupted image source
+
+---
+
+  ## Additional Occurrences
+
+The same issue was also reproduced in property cards displayed on the homepage after loading additional listings.
+
+![Broken Thumbnail](evidence/.png)
