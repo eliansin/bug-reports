@@ -73,4 +73,4 @@ Occurs consistently on multiple property listings tested.
 
 ### Video Evidence
 
-![Slider Bug Demo](property-gallery-thumbnails-disappear/BugView.gif)
+![Slider Bug Demo](BugView.gif)
