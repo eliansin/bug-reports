@@ -12,7 +12,7 @@ The first property thumbnail appears corrupted or fails to render correctly, whi
 
 * Website: https://www.rcaffaratti.com/
 * Browser: Google Chrome
-* OS: Windows 10
+* OS: Windows 11
 * Resolution: 1366x768
 
 ---
