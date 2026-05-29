@@ -48,7 +48,7 @@ Low - Visual/UI Issue
 
 ### Screenshot
 
-![Broken Thumbnail](Evidence/Evidence1.png)
+![Broken Thumbnail](evidence/Evidence1.png)
 
 ---
 
