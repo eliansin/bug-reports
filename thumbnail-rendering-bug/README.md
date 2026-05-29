@@ -75,4 +75,4 @@ Possible causes may include:
 
 The same issue was also reproduced in property cards displayed on the homepage after loading additional listings.
 
-![Broken Thumbnail](evidence/.png)
+![Broken Thumbnail](evidence/AditionalEvidence.png)
