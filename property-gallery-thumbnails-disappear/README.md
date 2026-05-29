@@ -12,7 +12,7 @@ Continuous interaction with the slider eventually causes the image gallery behav
 
 * Website: [Property Website]
 * Browser: Google Chrome
-* OS: Windows 10
+* OS: Windows 11
 * Resolution: 1366x768
 
 ---
