@@ -56,7 +56,7 @@ Medium - UI Stability Issue
 
 ### Reproduction GIF
 
-![Slider Reproduction](evidence/BugView.gif)
+![Slider Reproduction](./evidence/BugView.gif)
 
 ---
 
