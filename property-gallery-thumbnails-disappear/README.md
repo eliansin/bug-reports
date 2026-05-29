@@ -49,14 +49,14 @@ Medium - UI Stability Issue
 
 ### Screenshots
 
-![Slider Bug](evidence/slider-bug.png)
+![Slider Bug](evidence/Normal-Screenshot.png)
 
-![Slider Bug](evidence/slider-bug.png)
+![Slider Bug](evidence/Bug-Screenshot.png)
 ---
 
 ### Reproduction GIF
 
-![Slider Reproduction](evidence/reproduction.gif)
+![Slider Reproduction](evidence/BugView.gif)
 
 ---
 
