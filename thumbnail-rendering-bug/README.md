@@ -49,12 +49,12 @@ Low - Visual/UI Issue
 ### Screenshot
 
 ![Broken Thumbnail](evidence/Evidence1.png)
-
+![Broken Thumbnail](evidence/Evidence2.png)
 ---
 
 ### Reproduction GIF
 
-![Bug Reproduction](./screenshots/bug-reproduction.gif)
+![Bug Reproduction](evidence/Evidence3.gif)
 
 ---
 
